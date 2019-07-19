@@ -97,6 +97,10 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
+      - title: "Spatial Correlation-aware Compression Algorithm for Saving DRMA Access Energy"
+        authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
+        conference: "Proc. Asia and South Pacific Design Automation Conference(ASP-DAC), 2020 (submitted)"
+
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
         authors: Yesung Kang, Yoonho Park, <strong>Sunghoon Kim</strong> and Seokhyeong Kang
         conference: "The Institute of Semiconductor Engineers Conference (ISEC), 2018"
