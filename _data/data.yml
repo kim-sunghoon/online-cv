@@ -51,121 +51,85 @@ education:
       details: | 
           - Advisor: Prof. Seokhyeong Kang (POSTECH)
 
-    - degree: BSc in Material Science Engineering: Advanced Material Science(1st), Electrical Engineering (2nd)
+    - degree: BSc in Material Science Engineering - Advanced Material Science(1st), Electrical Engineering (2nd)
       university: Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea 
       time: Mar. 2012 - Feb. 2018
       details: |
           - Graduated with highest honors:  GPA (4.17/4.3), 2018 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Student 
+      time: Sep.2018 - Present
+      company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Undergraduate Student Researcher 
+      time: Mar.2017 - Dec. 2017
+      company: Nano Spin Transport Lab in UNIST, Prof. Jung-Woo Yoo  
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
+        tagline: "Samsung Science & Technology Foundation, POSTECH, et al."
+        date: "Aug. 2017- Jul. 2020"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Deep learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
+        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al."
+        date: "Dec. 2017 - Dec. 2020" 
+        
+      - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
+        tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al."
+        date: "Sep. 2017 - Feb. 2019"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
+        authors: Yesung Kang, Yoonho Park, *Sunghoon Kim* and Seokhyeong Kang
+        conference: "The Institute of Semiconductor Engineers Conference (ISEC), 2018"
 
     patents: 
-       - title: 
-
+       - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
+         authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and *Sunghoon Kim*
+         conference: "South Korea 10-2019-0034583, Mar 26, 2019 (application)"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Pytorch 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Verilog 
+        level: 98%
+        
+      - name: Cadence: NC Verilog & Simvision  
+        level: 98%
+        
+      - name: Synopsys: Design Compiler   
+        level: 98%        
+        
+      - name: Xilinx: Vivado 
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Xilinx: High Level Synthesis 
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Xilinx: Petalinux 
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
