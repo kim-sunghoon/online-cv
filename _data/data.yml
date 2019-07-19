@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sunghoon Kim
     tagline: Master Student of CAD & SoC Design
-    avatar: shkim-suit-origin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: shkim-suit-origin.png  #place png file inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sh.kim@postech.ac.kr 
@@ -47,12 +47,9 @@ career-profile:
     title: Career Profile
     summary: |
       Sunghoon Kim is currently a Master student in the Department of Electrical Engineering, 
-      Pohang University of Science and Technology (POSTECH), Korea. 
-      He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
-      His current research interests include energy-efficient deep learning computing 
-      at the intersection between machine learning and low power VLSI design. 
-      Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at 
-      Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
+      Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
+      
+      His current research interests include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
 
 education:
@@ -88,13 +85,13 @@ projects:
 
     assignments:
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
-        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2017- Jul. 2020"
+        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jul.2020"
 
       - title: Deep learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
-        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2017 - Dec. 2020"
+        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Dec.2020"
         
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
-        tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2017 - Feb. 2019"
+        tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep.2017 - Feb.2019"
    
 publications:
     title: Papers 
