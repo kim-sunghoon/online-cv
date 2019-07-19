@@ -1,4 +1,4 @@
-{% assign awards = site.data.data.publications %}
+{% assign awards = site.data.data.awards %}
 {% if awards %}
 <section class="section awards-section">
 
@@ -16,7 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for award in awards.papers %}
+  {% for award in awards.awards %}
   <div class="item">
     <div class="award-title">{{ award.title }}</div>
   </div><!--//item-->

@@ -52,13 +52,13 @@ career-profile:
 education:
     - degree: MSc in Electrical Engineering
       university: Pohang University of Science and Technology, Pohang, Republic of Korea 
-      time: Sep. 2018 - (Ongoing) 
+      time: Sep.2018 - (Ongoing) 
       details: | 
           - Advisor: Prof. Seokhyeong Kang 
 
-    - degree: BSc Summa Cum-Laude in Advanced Material Science(1st), Electrical Engineering (2nd)
+    - degree: BSc in Advanced Material Science(1st), Electrical Engineering (2nd)
       university: Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea 
-      time: Mar. 2012 - Feb. 2018
+      time: Mar.2012 - Feb.2018
       details: |
           - Graduated with highest honors:  GPA (4.17/4.3), 2018 
 
@@ -106,9 +106,8 @@ patents:
          
 awards:
     title: Awards
-    papers:
+    awards:
         - title: "Best paper award at ISE Conference, 2018"
-        - title: "Graduated with highest honors:  GPA (4.17/4.3), UNIST, 2018"
         - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017"
         - title: "Republic of Korea National Science and Engineering Scholarship, 2012 – 2018"
         
