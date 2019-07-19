@@ -97,7 +97,7 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
-      - title: "Spatial Correlation-aware Compression Algorithm for Saving DRMA Access Energy"
+      - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
         conference: "Proc. Asia and South Pacific Design Automation Conference(ASP-DAC), 2020 (submitted)"
 
@@ -125,6 +125,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Linux (ubuntu)
+        level: 70%
+
       - name: Python 
         level: 70%
 
