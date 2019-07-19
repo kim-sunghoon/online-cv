@@ -22,7 +22,7 @@ sidebar:
         level: Native
 
       - idiom: English 
-        level: Professional
+        level: Advanced
 
     interests:
       - item: Deep Learning Hardware Design / FPGA / ASIC
@@ -136,6 +136,9 @@ skills:
 
       - name: Xilinx-High Level Synthesis 
         level: 70%
+
+      - name: Mentor Graphics-Catapult (High Level Synthesis)
+        level: 60%
 
       - name: Xilinx-Petalinux 
         level: 85%
