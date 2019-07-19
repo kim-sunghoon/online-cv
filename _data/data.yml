@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Sunghoon Kim
     tagline: Master Student of CAD & SoC Design Lab 
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sh.kim@postech.ac.kr 
     website: kim-sunghoon.github.io/online-cv/ #do not add http://
-    linkedin: 
+    linkedin: sunghoon-kim-8b08aa164
     github: kim-sunghoon
  
     languages:
