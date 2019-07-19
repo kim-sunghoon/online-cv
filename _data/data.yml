@@ -115,19 +115,19 @@ skills:
       - name: Verilog 
         level: 98%
         
-      - name: Cadence: NC Verilog & Simvision  
+      - name: Cadence- NC Verilog & Simvision  
         level: 98%
         
-      - name: Synopsys: Design Compiler   
+      - name: Synopsys- Design Compiler   
         level: 98%        
         
-      - name: Xilinx: Vivado 
+      - name: Xilinx-Vivado 
         level: 98%
 
-      - name: Xilinx: High Level Synthesis 
-        level: 95%
+      - name: Xilinx-High Level Synthesis 
+        level: 70%
 
-      - name: Xilinx: Petalinux 
+      - name: Xilinx-Petalinux 
         level: 85%
 
 
