@@ -16,11 +16,13 @@
   </div><!--//intro-->
   {% endif %}
 
+  <ol>
   {% for award in awards.awards %}
   <div class="item">
-    <div class="award-title">{{ award.title }}</div>
+      <li><div class="award-title">{{ award.title }}</div></li>
   </div><!--//item-->
   {% endfor %}
+  </ol>
 
 </section><!--//section-->
 {% endif %}
