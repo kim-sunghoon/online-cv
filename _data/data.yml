@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sunghoon Kim
-    tagline: Master Student of CAD & SoC Design Lab 
+    tagline: Master Student of CAD & SoC Design
     avatar: shkim-stratos.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,7 +31,13 @@ sidebar:
       - item: Design Automation / High Level Synthesis  
         link:    
 
-      - item: Machine Learning / Computer Vision / Automatic Speech Recognition 
+      - item: Machine Learning 
+        link:
+
+      - item: Computer Vision 
+        link:
+
+      - item: Automatic Speech Recognition 
         link:
 
 
