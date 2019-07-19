@@ -43,10 +43,10 @@ career-profile:
       Sunghoon Kim is currently a Master student in the Department of Electrical Engineering, 
       Pohang University of Science and Technology (POSTECH), Korea. 
       He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
-      His current research interests include energy-efficient deep learning computing, 
+      His current research interests include energy-efficient deep learning computing 
       at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at 
-      Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018 
+      Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
 
 education:
@@ -70,7 +70,7 @@ experiences:
 
 
     - role: Undergraduate Student Researcher 
-      time: Mar.2017 - Dec. 2017
+      time: Mar.2017 - Dec.2017
       company: Nano Spin Transport Lab in UNIST, Prof. Jung-Woo Yoo  
       details: |
 
@@ -79,7 +79,6 @@ experiences:
 
 projects:
     title: Projects
-
 
     assignments:
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
@@ -91,9 +90,6 @@ projects:
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
         tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2017 - Feb. 2019"
    
-
-
-
 publications:
     title: Papers 
     papers:
@@ -108,20 +104,23 @@ patents:
          authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and *Sunghoon Kim*
          conference: "South Korea 10-2019-0034583, Mar 26, 2019 (application)"
          
-# publications:
-#     title: Awards
-#     papers:
-#         - title: "Best paper award at ISE Conference, 2018"
-#         - title: "Graduated with highest honors:  GPA (4.17/4.3), UNIST, 2018"
-#         - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017"
-#         - title: "Republic of Korea National Science and Engineering Scholarship, 2012 – 2018"
+awards:
+    title: Awards
+    papers:
+        - title: "Best paper award at ISE Conference, 2018"
+        - title: "Graduated with highest honors:  GPA (4.17/4.3), UNIST, 2018"
+        - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017"
+        - title: "Republic of Korea National Science and Engineering Scholarship, 2012 – 2018"
         
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Pytorch 
-        level: 98%
+      - name: Python 
+        level: 90%
+
+      - name: Pytorch 
+        level: 70%
 
       - name: Verilog 
         level: 98%
