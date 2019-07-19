@@ -93,7 +93,7 @@ projects:
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
         tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep.2017 - Feb.2019"
    
-publications:
+papers:
     title: Papers 
     papers:
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
