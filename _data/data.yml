@@ -101,20 +101,20 @@ publications:
         authors: Yesung Kang, Yoonho Park, *Sunghoon Kim* and Seokhyeong Kang
         conference: "The Institute of Semiconductor Engineers Conference (ISEC), 2018"
 
-publications:
+patents:
     title: Patents
     papers: 
        - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
          authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and *Sunghoon Kim*
          conference: "South Korea 10-2019-0034583, Mar 26, 2019 (application)"
          
-publications:
-    title: Awards
-    papers: 
-        - title: "Best paper award at ISE Conference, 2018" 
-        - title: "Graduated with highest honors:  GPA (4.17/4.3), UNIST, 2018"
-        - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017"
-        - title: "Republic of Korea National Science and Engineering Scholarship, 2012 – 2018"
+# publications:
+#     title: Awards
+#     papers:
+#         - title: "Best paper award at ISE Conference, 2018"
+#         - title: "Graduated with highest honors:  GPA (4.17/4.3), UNIST, 2018"
+#         - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017"
+#         - title: "Republic of Korea National Science and Engineering Scholarship, 2012 – 2018"
         
 skills:
     title: Skills &amp; Proficiency
