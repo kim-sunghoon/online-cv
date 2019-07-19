@@ -7,80 +7,55 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sunghoon Kim
+    tagline: Master Student of CAD & SoC Design Lab 
+    avatar: shkim-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    email: sh.kim@postech.ac.kr 
+    website: https://kim-sunghoon.github.io/online-cv/ #do not add http://
+    linkedin: 
+    github: github.com/kim-sunghoon
+ 
     languages:
-      - idiom: English
+      - idiom: Korean 
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English 
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Deep Learning Hardware Design / FPGA / ASIC
+        link:
+        
+      - item: Design Automation / High Level Synthesis  
+        link:    
+
+      - item: Machine Learning / Computer Vision / Automatic Speech Recognition 
         link:
 
-      - item: Snowboarding
-        link:
 
-      - item: Cooking
-        link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I'm a graduate student of POSTECH in CAD & SoC Design Lab. My current research interests include energy-efficient deep learning computing, 
+      at the intersection between machine learning and low power VLSI design.   
 
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Electrical Engineering
+      university: Pohang University of Science and Technology, Pohang, Republic of Korea 
+      time: Sep. 2018 - (Ongoing) 
+      details: | 
+          - Advisor: Prof. Seokhyeong Kang (POSTECH)
+
+    - degree: BSc in Material Science Engineering: Advanced Material Science(1st), Electrical Engineering (2nd)
+      university: Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea 
+      time: Mar. 2012 - Feb. 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Graduated with highest honors:  GPA (4.17/4.3), 2018 
 
 experiences:
     - role: Lead Developer
@@ -128,10 +103,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
 
     assignments:
       - title: Velocity
@@ -170,9 +142,8 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    patents: 
+       - title: 
 
 skills:
     title: Skills &amp; Proficiency
