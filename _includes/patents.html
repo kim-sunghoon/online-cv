@@ -16,11 +16,11 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in patents.papers %}
+  {% for patent in patents.papers %}
   <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="patent-title">{{ patent.title }}</div>
+    <div class="patent-authors">{{ patent.authors }}</div>
+    <div class="patent-conference">{{ patent.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
