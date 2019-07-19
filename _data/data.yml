@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Sunghoon Kim
@@ -50,13 +50,13 @@ career-profile:
 
 
 education:
-    - degree: MSc in Electrical Engineering
+    - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology, Pohang, Republic of Korea 
       time: Sep.2018 - (Ongoing) 
       details: | 
           - Advisor: Prof. Seokhyeong Kang 
 
-    - degree: BSc in Advanced Material Science(1st), Electrical Engineering (2nd)
+    - degree: B.Sc Graduated with Highest Honors in Advanced Material Science(1st), Electrical Engineering (2nd)
       university: Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea 
       time: Mar.2012 - Feb.2018
       details: |
@@ -108,8 +108,9 @@ awards:
     title: Awards
     awards:
         - title: "Best paper award at ISE Conference, 2018"
+        - title: "Graduated with highest honors from UNIST: GPA (4.17/4.3), 2018"
         - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017"
-        - title: "Republic of Korea National Science and Engineering Scholarship, 2012 – 2018"
+        - title: "Republic of Korea National Science and Engineering Scholarship, 2012-2018"
         
 skills:
     title: Skills &amp; Proficiency
@@ -124,10 +125,10 @@ skills:
       - name: Verilog 
         level: 98%
         
-      - name: Cadence- NC Verilog & Simvision  
+      - name: Cadence-NC Verilog & Simvision  
         level: 98%
         
-      - name: Synopsys- Design Compiler   
+      - name: Synopsys-Design Compiler   
         level: 98%        
         
       - name: Xilinx-Vivado 
