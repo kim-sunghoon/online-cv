@@ -94,6 +94,7 @@ projects:
         tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep.2017 - Feb.2019"
    
 publications:
+    # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
@@ -101,6 +102,7 @@ publications:
         conference: "The Institute of Semiconductor Engineers Conference (ISEC), 2018"
 
 papers:
+    # very confusing but papers --> patents, site.data.data.patents --> no itelic at author
     title: Patents
     papers: 
        - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
