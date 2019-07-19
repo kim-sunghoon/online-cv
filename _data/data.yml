@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sunghoon Kim
     tagline: Master Student of CAD & SoC Design
-    avatar: shkim-stratos.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: shkim-suit-origin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sh.kim@postech.ac.kr 
@@ -123,13 +123,13 @@ skills:
 
     toolset:
       - name: Python 
-        level: 90%
+        level: 70%
 
       - name: Pytorch 
         level: 70%
 
       - name: Verilog 
-        level: 98%
+        level: 70%
         
       - name: Cadence-NC Verilog & Simvision  
         level: 98%
@@ -138,10 +138,10 @@ skills:
         level: 98%        
         
       - name: Xilinx-Vivado 
-        level: 98%
+        level: 90%
 
       - name: Xilinx-High Level Synthesis 
-        level: 70%
+        level: 60%
 
       - name: Mentor Graphics-Catapult (High Level Synthesis)
         level: 60%
