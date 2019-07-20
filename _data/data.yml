@@ -99,11 +99,11 @@ publications:
     papers:
       - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
-        conference: "Proc. Asia and South Pacific Design Automation Conference(ASP-DAC), 2020 (submitted)"
+        conference: "<I>Proc. Asia and South Pacific Design Automation Conference(ASP-DAC)</I>, 2020 (submitted)"
 
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
         authors: Yesung Kang, Yoonho Park, <strong>Sunghoon Kim</strong> and Seokhyeong Kang
-        conference: "The Institute of Semiconductor Engineers Conference (ISEC), 2018"
+        conference: "<I>The Institute of Semiconductor Engineers Conference (ISEC)</I>, 2018"
 
 papers:
     # very confusing but papers --> patents, site.data.data.patents --> no itelic at author
@@ -111,7 +111,7 @@ papers:
     papers: 
        - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
          authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and <strong>Sunghoon Kim</strong>
-         conference: "South Korea 10-2019-0034583, Mar 26, 2019 (application)"
+         conference: "<I>South Korea 10-2019-0034583</I>, Mar 26, 2019 (application)"
          
 awards:
     title: Awards
