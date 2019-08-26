@@ -125,6 +125,7 @@ teachings:
     intro: "I am a teaching assistant for the following courses at POSTECH:"
     teachings:
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019"
+
 skills:
     title: Skills &amp; Proficiency
 
