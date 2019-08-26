@@ -121,6 +121,10 @@ awards:
         - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017 [link](https://news.unist.ac.kr/unist-harvard-seas-team-up-in-cross-cultural-engineering-program/)"
         - title: "Republic of Korea National Science and Engineering Scholarship, 2012-2018"
         
+teachings:
+    intro: "I am a teaching assistant for the following courses at POSTECH:"
+    teachings:
+        - title: "EECE490F: Introduction to VLSI Design, Spring 2019"
 skills:
     title: Skills &amp; Proficiency
 
