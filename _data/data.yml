@@ -51,6 +51,7 @@ career-profile:
       
       His current research interests include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
+      -- Last update 31 Oct 2019 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -97,9 +98,13 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
+      - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
+        authors:  Yesung Kang, Yoonho Park, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
+        conference: "<I>Design, Automation and Test in Europe Conference(DATE)</I>, 2020 (accepted)"
+
       - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
-        conference: "<I>Proc. Asia and South Pacific Design Automation Conference(ASP-DAC)</I>, 2020 (submitted)"
+        conference: "on-going"
 
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
         authors: Yesung Kang, Yoonho Park, <strong>Sunghoon Kim</strong> and Seokhyeong Kang
@@ -153,7 +158,7 @@ skills:
         level: 90%
 
       - name: Xilinx-High Level Synthesis 
-        level: 60%
+        level: 80%
 
       - name: Mentor Graphics-Catapult (High Level Synthesis)
         level: 60%
