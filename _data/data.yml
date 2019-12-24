@@ -98,7 +98,7 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
-        - title: "GRLC: Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
+        - title: "GRLC":" Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
         conference: "<I>IEEE Design Automation Conference </I>, 2020 (submitted)"
 
