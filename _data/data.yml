@@ -25,9 +25,12 @@ sidebar:
         level: Advanced
 
     interests:
-      - item: Deep Learning Hardware Design / FPGA / ASIC
+      - item: VLSI CAD / System on-Chip 
         link:
         
+      - item: Deep Learning Hardware Design / FPGA / ASIC
+        link:
+
       - item: Design Automation / High Level Synthesis  
         link:    
 
