@@ -107,11 +107,11 @@ publications:
 
       - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
-        conference: "<I> Korean Conference on Semiconductors </I>, 2020"
+        conference: "<I>Korean Conference on Semiconductors </I>, 2020"
 
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
         authors:  Yesung Kang, Yoonho Park, <strong>Sunghoon Kim</strong>, Eunji Kwon, Taeho Lim, Sangyun Oh, Mingyu Woo, and Seokhyeong Kang
-        conference: "<I>Design, Automation and Test in Europe Conference(DATE)</I>, 2020 (accepted)"
+        conference: "<I>Design, Automation and Test in Europe Conference(DATE)</I>, 2020"
 
       - title: "Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling"
         authors: Yesung Kang, Yoonho Park, <strong>Sunghoon Kim</strong> and Seokhyeong Kang
