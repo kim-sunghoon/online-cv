@@ -34,15 +34,8 @@ sidebar:
       - item: Design Automation / High Level Synthesis  
         link:    
 
-      - item: Machine Learning 
+      - item: Machine Learning / Computer Vision / Automatic Speech Recognition
         link:
-
-      - item: Computer Vision 
-        link:
-
-      - item: Automatic Speech Recognition 
-        link:
-
 
 
 
@@ -54,7 +47,7 @@ career-profile:
       
       His current research interests include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 05 Mar 2020 -- 
+      -- Last update 03 Apr 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -81,6 +74,16 @@ experiences:
       company: Nano Spin Transport Lab in UNIST, Prof. Jung-Woo Yoo  
       details: |
 
+    - role: Undergraduate Student Researcher 
+      time: July.2017
+      company: UNIST-Harvard School of Engineering and Applied Science Summer Exchange Program, Prof. Fawwaz Habbal (Harvard) 
+      details: |
+
+    - role: Undergraduate Student Researcher 
+      time: July.2016 - Aug.2016
+      company: Nanomaterials Science and Engineering Lab in UNIST, Prof. Jae Sung Son
+      details: |
+
 
 
 
@@ -101,6 +104,10 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
+      - title: "Approach to Double Multiply-and-Accumulator Unit Using Bit-level Sparsity in Neural Networks"
+        authors: Yesung Kang, Eunji Kwon, Younghoon Byun, <strong>Sunghoon Kim</strong>, Youngjoo Lee and Seokhyeong Kang
+        conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (submitted)"
+
       - title: "GRLC Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
         conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (submitted)"
@@ -134,21 +141,21 @@ awards:
     awards:
         - title: "Best paper award at ISE Conference, 2018"
         - title: "Graduated with highest honors from UNIST: GPA (4.17/4.3), 2018 [link](https://news.unist.ac.kr/the-2018-unist-commencement-ceremony/)"
-        - title: "Harvard-UNIST Summer Exchange Program. Received Kyungdong Scholarship, 2017 [link](https://news.unist.ac.kr/unist-harvard-seas-team-up-in-cross-cultural-engineering-program/)"
+        - title: "Kyungdong Scholarship for Harvard-UNIST Summer Exchange Program 2017 [link](https://news.unist.ac.kr/unist-harvard-seas-team-up-in-cross-cultural-engineering-program/)"
         - title: "Republic of Korea National Science and Engineering Scholarship, 2012-2018"
         
 teachings:
     title: Teachings
-    intro: "I am a teaching assistant for the following courses at POSTECH:"
+    intro: "I am a teaching assistant for the following courses:"
     teachings:
-        - title: "EECE490F: Introduction to VLSI Design, Spring 2019"
+        - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Linux (ubuntu)
-        level: 90%
+        level: 85%
 
       - name: Python 
         level: 90%
@@ -160,10 +167,10 @@ skills:
         level: 70%
         
       - name: Cadence-NC Verilog & Simvision  
-        level: 98%
+        level: 90%
         
       - name: Synopsys-Design Compiler   
-        level: 98%        
+        level: 90%        
 
       - name: Synopsys-IC Compiler   
         level: 60%        
