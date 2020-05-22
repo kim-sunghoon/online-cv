@@ -47,7 +47,7 @@ career-profile:
       
       His current research interests include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 03 Apr 2020 -- 
+      -- Last update 23 May 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -111,7 +111,7 @@ publications:
 
       - title: "GRLC Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
-        conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (submitted)"
+        conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020"
 
       - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
