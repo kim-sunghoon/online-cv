@@ -47,7 +47,7 @@ career-profile:
       
       His current research interests include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 23 May 2020 -- 
+      -- Last update 11 June 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -67,6 +67,7 @@ experiences:
       time: Sep.2018 - Present
       company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
       details: |
+          - Thesis: MDARTS: Multi-objective Differentiable Neural Architecture Search
 
 
     - role: Undergraduate Student Researcher 
@@ -105,6 +106,10 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
+      - title: "MDARTS Multi-objective Differentiable Neural Architecture Search"
+        authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
+        conference: "<I>IEEE International Conference on Computer-Aided Design (ICCAD) </I>, 2020 (submitted)"
+
       - title: "Approach to Double Multiply-and-Accumulator Unit Using Bit-level Sparsity in Neural Networks"
         authors: Yesung Kang, Eunji Kwon, Younghoon Byun, <strong>Sunghoon Kim</strong>, Youngjoo Lee and Seokhyeong Kang
         conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (rejected)"
