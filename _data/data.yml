@@ -45,7 +45,7 @@ career-profile:
       Sunghoon Kim is currently a job finder.
       He received a Master of Science degree in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea in June 2020. Advisor was Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
       
-      His research interests in POSTECH include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
+      His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
       -- Last update 21 July 2020 -- 
@@ -53,19 +53,19 @@ career-profile:
 education:
     - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology, Pohang, Republic of Korea 
-      time: Sep.2018 - Jun.2020 
+      time: Sep. 2018 - Jun. 2020 
       details: | 
           - Advisor: Prof. Seokhyeong Kang 
 
     - degree: B.Sc Graduated with Highest Honors in Advanced Material Science(1st), Electrical Engineering (2nd)
       university: Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea 
-      time: Mar.2012 - Feb.2018
+      time: Mar. 2012 - Feb. 2018
       details: |
           - Graduated with highest honors:  GPA (4.17/4.3), 2018 
 
 experiences:
     - role: Graduate Student 
-      time: Sep.2018 - Jun.2020
+      time: Jun. 2018 - Jun. 2020
       company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
       details: |
           - Thesis: MDARTS: Multi-objective Differentiable Neural Architecture Search
@@ -73,18 +73,18 @@ experiences:
 
 
     - role: Undergraduate Student Researcher 
-      time: Mar.2017 - Dec.2017
+      time: Mar. 2017 - Dec. 2017
       company: Nano Spin Transport Lab in UNIST, Prof. Jung-Woo Yoo  
       details: |
 
     - role: Undergraduate Student Researcher 
-      time: July.2017
+      time: Jul. 2017
       company: UNIST-Harvard School of Engineering and Applied Science Summer Cross-Cultural Engineering Program, Prof. Fawwaz Habbal (Harvard) 
       details: | 
           [link](https://news.unist.ac.kr/unist-harvard-seas-team-up-in-cross-cultural-engineering-program/)
 
     - role: Undergraduate Student Researcher 
-      time: July.2016 - Aug.2016
+      time: Jul. 2016 - Aug. 2016
       company: Nanomaterials Science and Engineering Lab in UNIST, Prof. Jae Sung Son
       details: |
 
@@ -96,13 +96,13 @@ projects:
 
     assignments:
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
-        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jun.2020"
+        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2017 - Jun. 2020"
 
       - title: Deep Learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
-        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Jun.2020"
+        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2017 - Jun. 2020"
         
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
-        tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep.2017 - Feb.2019"
+        tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2017 - Feb. 2019"
    
 publications:
     # very confusing but publication --> journal and conference... site.data.data error
@@ -151,14 +151,14 @@ awards:
         - title: "Best paper award at ISE Conference, 2018"
         - title: "Graduated with highest honors from UNIST: GPA (4.17/4.3), 2018 [link](https://news.unist.ac.kr/the-2018-unist-commencement-ceremony/)"
         - title: "Kyungdong Scholarship for Harvard-UNIST Summer Exchange Program 2017 [link](https://news.unist.ac.kr/unist-harvard-seas-team-up-in-cross-cultural-engineering-program/)"
-        - title: "Republic of Korea National Science and Engineering Scholarship, 2012-2018"
+        - title: "Republic of Korea National Science and Engineering Scholarship, 2012 - 2018"
         
 teachings:
     title: Teachings
     intro: "I am a teaching assistant for the following courses:"
     teachings:
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
-        - title: "Manage CSDL Tutorial Page: [https://github.com/kim-sunghoon/CSDL_Tutorial](https://github.com/kim-sunghoon/CSDL_Tutorial)"
+        - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/kim-sunghoon/Study-materials)"
 
 skills:
     title: Skills &amp; Proficiency
