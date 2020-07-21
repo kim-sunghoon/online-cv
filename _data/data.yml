@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sunghoon Kim
-    tagline: Master Student of CAD & SoC Design
+    tagline: Job Finder
     avatar: shkim-suit-origin.png  #place png file inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,17 +42,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sunghoon Kim is currently a Master student in the Department of Electrical Engineering, 
-      Pohang University of Science and Technology (POSTECH), Korea. He is working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
+      Sunghoon Kim is currently a job finder.
+      He received a Master of Science degree in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea in June 2020. Advisor was Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
       
-      His current research interests include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
+      His research interests in POSTECH include energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
+      Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 25 June 2020 -- 
+      -- Last update 21 July 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology, Pohang, Republic of Korea 
-      time: Sep.2018 - (Ongoing) 
+      time: Sep.2018 - Jun.2020 
       details: | 
           - Advisor: Prof. Seokhyeong Kang 
 
@@ -64,10 +65,11 @@ education:
 
 experiences:
     - role: Graduate Student 
-      time: Sep.2018 - Present
+      time: Sep.2018 - Jun.2020
       company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
       details: |
           - Thesis: MDARTS: Multi-objective Differentiable Neural Architecture Search
+          - GPA: 4.15/4.3, 2020
 
 
     - role: Undergraduate Student Researcher 
@@ -94,10 +96,10 @@ projects:
 
     assignments:
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
-        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jul.2020"
+        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug.2017 - Jun.2020"
 
       - title: Deep Learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
-        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Dec.2020"
+        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec.2017 - Jun.2020"
         
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
         tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep.2017 - Feb.2019"
@@ -108,7 +110,7 @@ publications:
     papers:
       - title: "MDARTS Multi-objective Differentiable Neural Architecture Search"
         authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
-        conference: "<I>IEEE International Conference on Computer-Aided Design (ICCAD) </I>, 2020 (submitted)"
+        conference: "<I>IEEE International Conference on Computer-Aided Design (ICCAD) </I>, 2020 (rejected)"
 
       - title: "Approach to Double Multiply-and-Accumulator Unit Using Bit-level Sparsity in Neural Networks"
         authors: Yesung Kang, Eunji Kwon, Younghoon Byun, <strong>Sunghoon Kim</strong>, Youngjoo Lee and Seokhyeong Kang
