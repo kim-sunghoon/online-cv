@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Sunghoon Kim
-    tagline: Job Finder
-    avatar: shkim-suit-origin.png  #place png file inside /assets/images/ folder and provide the name of the file below
+    tagline: Engineer at Samsung Electronics 
+    avatar: shkim-200804-w.jpg  #place png file inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sh.kim@postech.ac.kr 
@@ -42,18 +42,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sunghoon Kim is currently a job finder.
-      He received a Master of Science degree in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea in June 2020. Advisor was Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
+      Sunghoon Kim is a engineer at Samsung Electornics (Foundry).
+      He received a Master of Science degree in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea in August 2020. Advisor was Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
       
       His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 21 July 2020 -- 
+      -- Last update 04 Aug 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
       university: Pohang University of Science and Technology, Pohang, Republic of Korea 
-      time: Sep. 2018 - Jun. 2020 
+      time: Sep. 2018 - Aug. 2020 
       details: | 
           - Advisor: Prof. Seokhyeong Kang 
 
@@ -64,8 +64,13 @@ education:
           - Graduated with highest honors:  GPA (4.17/4.3), 2018 
 
 experiences:
+    - role: Engineer 
+      time: Sep. 2020 - (Ongoing)
+      company: Samsung Electornics (Foundry)
+      details: |
+
     - role: Graduate Student 
-      time: Jun. 2018 - Jun. 2020
+      time: Jun. 2018 - Aug. 2020
       company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
       details: |
           - Thesis: MDARTS: Multi-objective Differentiable Neural Architecture Search
@@ -110,7 +115,7 @@ publications:
     papers:
       - title: "MDARTS Multi-objective Differentiable Neural Architecture Search"
         authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
-        conference: "<I>IEEE International Conference on Computer-Aided Design (ICCAD) </I>, 2020 (rejected)"
+        conference: "<I>Asia and South Pacific  Design Automation Conference (ASP-DAC) </I>, 2021 (submitted)"
 
       - title: "Approach to Double Multiply-and-Accumulator Unit Using Bit-level Sparsity in Neural Networks"
         authors: Yesung Kang, Eunji Kwon, Younghoon Byun, <strong>Sunghoon Kim</strong>, Youngjoo Lee and Seokhyeong Kang
