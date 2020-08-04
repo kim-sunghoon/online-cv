@@ -163,7 +163,7 @@ teachings:
     intro: "I am a teaching assistant for the following courses:"
     teachings:
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
-        - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/kim-sunghoon/Study-materials)"
+        - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/CSDL-postech/CSDL_Tutorial)"
 
 skills:
     title: Skills &amp; Proficiency
