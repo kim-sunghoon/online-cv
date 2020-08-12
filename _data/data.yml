@@ -48,7 +48,7 @@ career-profile:
       His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 04 Aug 2020 -- 
+      -- Last update 13 Aug 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -117,13 +117,13 @@ publications:
         authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
         conference: "<I>Asia and South Pacific  Design Automation Conference (ASP-DAC) </I>, 2021 (submitted)"
 
+      - title: "GRLC Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
+        authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
+        conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020"
+
       - title: "Approach to Double Multiply-and-Accumulator Unit Using Bit-level Sparsity in Neural Networks"
         authors: Yesung Kang, Eunji Kwon, Younghoon Byun, <strong>Sunghoon Kim</strong>, Youngjoo Lee and Seokhyeong Kang
         conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (rejected)"
-
-      - title: "GRLC Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
-        authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
-        conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (accepted)"
 
       - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
@@ -152,6 +152,7 @@ papers:
 awards:
     title: Awards
     awards:
+        - title: "Best paper award at ISLPED, 2020"
         - title: "Excellent paper award in VLSI CAD division at KCS, 2020"
         - title: "Best paper award at ISE Conference, 2018"
         - title: "Graduated with highest honors from UNIST: GPA (4.17/4.3), 2018 [link](https://news.unist.ac.kr/the-2018-unist-commencement-ceremony/)"
