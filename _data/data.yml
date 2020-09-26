@@ -48,7 +48,7 @@ career-profile:
       His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 13 Aug 2020 -- 
+      -- Last update 26 Sep 2020 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -115,7 +115,7 @@ publications:
     papers:
       - title: "MDARTS Multi-objective Differentiable Neural Architecture Search"
         authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
-        conference: "<I>Asia and South Pacific  Design Automation Conference (ASP-DAC) </I>, 2021 (submitted)"
+        conference: "<I> The Design, Automation, and Test in Europe (DATE) Conference </I>, 2021 (submitted)"
 
       - title: "GRLC Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
@@ -147,7 +147,7 @@ papers:
 
        - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
          authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and <strong>Sunghoon Kim</strong>
-         conference: "<I>United State UP-2900650-US</I>, Jan 24, 2020 (application)"
+         conference: "<I>United State UP-2900650-US</I>, Jan 24, 2020 (application) [link](http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub8_2&wr_id=3)" 
          
 awards:
     title: Awards
