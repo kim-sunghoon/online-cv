@@ -52,7 +52,7 @@ career-profile:
       His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 28 Jan 2022 -- 
+      -- Last update 20 Apr 2022 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -104,14 +104,23 @@ projects:
     title: Projects
 
     assignments:
+      - title: ML-based Yield Analysis Model
+        tagline: Samsung Foundry & Samsung Advanced Institute of Technology et al., Dec. 2020 - Ongoing
+        details: |
+          - Development of ML-based automation technology that can be intelligent throughout semiconductors such as process development, yield ramp-up, facility abnormality detection, and Fab automation
+          - Development of deep learning-based learning algorithms suitable for semiconductors
+          - Algorithm development for prediction, cause analysis, and optimization purposes
+          - Semiconductor data collection/preprocessing/analysis
+        
+
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
-        tagline: "Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2017 - Jun. 2020"
+        tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2017 - Jun. 2020
 
       - title: Deep Learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
-        tagline: "POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2017 - Jun. 2020"
+        tagline: POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2017 - Jun. 2020
         
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
-        tagline: "National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2017 - Feb. 2019"
+        tagline: National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2017 - Feb. 2019
    
 publications:
     # very confusing but publication --> journal and conference... site.data.data error
