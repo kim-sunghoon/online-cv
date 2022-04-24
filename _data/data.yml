@@ -106,11 +106,11 @@ projects:
     assignments:
       - title: ML-based Yield Analysis Model
         tagline: Samsung Foundry & Samsung Advanced Institute of Technology et al., Dec. 2020 - Ongoing
-        details: |
-          - Development of ML-based automation technology that can be intelligent throughout semiconductors such as process development, yield ramp-up, facility abnormality detection, and Fab automation
-          - Development of deep learning-based learning algorithms suitable for semiconductors
-          - Algorithm development for prediction, cause analysis, and optimization purposes
-          - Semiconductor data collection/preprocessing/analysis
+        # details: |
+        #   - Development of ML-based automation technology that can be intelligent throughout semiconductors such as process development, yield ramp-up, facility abnormality detection, and Fab automation
+        #   - Development of deep learning-based learning algorithms suitable for semiconductors
+        #   - Algorithm development for prediction, cause analysis, and optimization purposes
+        #   - Semiconductor data collection/preprocessing/analysis
         
 
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
@@ -178,7 +178,7 @@ teachings:
     teachings:
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
         - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/CSDL-postech/CSDL_Tutorial)"
-        - title: "My Study Page: [https://github.com/kim-sunghoon/Study-material](https://github.com/kim-sunghoon/Study-material)"
+        - title: "My Study Page: [https://github.com/kim-sunghoon/Study-materials](https://github.com/kim-sunghoon/Study-materials)"
 
 skills:
     title: Skills &amp; Proficiency
