@@ -22,7 +22,7 @@ sidebar:
         level: Native
 
       - idiom: English 
-        level: Advanced
+        level: Advanced High (OPIC)
 
     interests:
       - item: Machine Learning / Tabular Dataset and Graph Neural Network
@@ -46,7 +46,7 @@ career-profile:
       His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update 12 Jan 2023 -- 
+      -- Last update Jun. 2024 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -98,8 +98,14 @@ projects:
     title: Projects
 
     assignments:
+      - title: Reducing circuit design backend flow turnaround time by developing ML-based design rule violation predictors  
+        tagline: Samsung Foundry,  Jul. 2023 - May. 2024 (11 months)
+
+      - title: Circuit PPA push with dso.ai  
+        tagline: Samsung Foundry,  Aug. 2023 - Oct. 2023 (3 months)
+
       - title: AI-based Yield Prediction and Cause Analysis Methodology Development 
-        tagline: Samsung Foundry & Samsung Advanced Institute of Technology et al., Dec. 2020 - Ongoing
+        tagline: Samsung Foundry & Samsung Advanced Institute of Technology et al., Dec. 2020 - Sep. 2023 (2 years and 7 months)
         # details: |
         #   - Development of ML-based automation technology that can be intelligent throughout semiconductors such as process development, yield ramp-up, facility abnormality detection, and Fab automation
         #   - Development of deep learning-based learning algorithms suitable for semiconductors
@@ -108,18 +114,22 @@ projects:
         
 
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
-        tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2017 - Jun. 2020
+        tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2018 - Jun. 2020 (1 year and 9 months)
 
       - title: Deep Learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
-        tagline: POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2017 - Jun. 2020
+        tagline: POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2018 - Jun. 2020 (1 year and 7 months)
         
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
-        tagline: National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2017 - Feb. 2019
+        tagline: National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2018 - Feb. 2019 (6 months)
    
 publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
+      - title: "DRV Prediction ... FIXIT!"
+        authors: Jungho Kim, Kyeongsun cho, <strong>Sunghoon Kim</strong>, Mintae Lee and Wook Kim
+        conference: "<I> The Design Automation Conference (DAC) </I>, 2024"
+
       - title: "MDARTS Multi-objective Differentiable Neural Architecture Search"
         authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
         conference: "<I> The Design, Automation, and Test in Europe (DATE) Conference </I>, 2021"
@@ -127,10 +137,6 @@ publications:
       - title: "GRLC Grid-based Run-length Compression for Energy-efficient CNN Accelerator"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
         conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020"
-
-      - title: "Approach to Double Multiply-and-Accumulator Unit Using Bit-level Sparsity in Neural Networks"
-        authors: Yesung Kang, Eunji Kwon, Younghoon Byun, <strong>Sunghoon Kim</strong>, Youngjoo Lee and Seokhyeong Kang
-        conference: "<I>IEEE International Symposium on Low Power Electronics and Design (ISLPED) </I>, 2020 (rejected)"
 
       - title: "Spatial Correlation-aware Compression Algorithm for Saving DRAM Access Energy"
         authors: Yoonho Park, Yesung Kang, <strong>Sunghoon Kim</strong>, Eunji Kwon and Seokhyeong Kang
@@ -174,46 +180,46 @@ teachings:
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
         - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/CSDL-postech/CSDL_Tutorial)"
         - title: "My Study Page: [https://github.com/kim-sunghoon/Study-materials](https://github.com/kim-sunghoon/Study-materials)"
-
+        - title: "I served as a Samsung Value Program (SVP) Guiding Senior as part of the Leadership Development Course (Feb. 2024 - Mar. 2024)"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Linux 
-        level: 90%
+        # level: 90%
 
       - name: Python 
-        level: 90%
+        # level: 90%
 
       - name: PyTorch 
-        level: 90%
+        # level: 90%
 
       - name: Tensorflow
-        level: 90%
+        # level: 90%
 
       - name: Pandas & Matplotlib
-        level: 90%
+        # level: 90%
 
       - name: Verilog 
-        level: 60%
+        # level: 60%
         
       - name: Cadence-NC Verilog & Simvision  
-        level: 60%
+        # level: 60%
         
       - name: Synopsys-Design Compiler   
-        level: 60%        
+        # level: 60%        
 
       - name: Synopsys-Prime Time   
-        level: 60%        
+        # level: 60%        
         
       - name: Xilinx-Vivado 
-        level: 70%
+        # level: 70%
 
       - name: Xilinx-High Level Synthesis 
-        level: 80%
+        # level: 80%
 
       - name: Xilinx-Petalinux 
-        level: 70%
+        # level: 70%
 
 
 
