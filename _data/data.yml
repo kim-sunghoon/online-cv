@@ -180,46 +180,19 @@ teachings:
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
         - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/CSDL-postech/CSDL_Tutorial)"
         - title: "My Study Page: [https://github.com/kim-sunghoon/Study-materials](https://github.com/kim-sunghoon/Study-materials)"
-        - title: "I served as a Samsung Value Program (SVP) Guiding Senior as part of the Leadership Development Course (Feb. 2024 - Mar. 2024)"
+        - title: "I served as a Samsung Value Program (SVP) Senior as part of the Leadership Development Course (Feb. 2024 - Mar. 2024) | 삼성 신입사원 연수프로그램 (SVP) 선배 수행"
+
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Skills 
     toolset:
-      - name: Linux 
+      - name: Basics - Linux, Git, Python, C++ 
+      - name: Machine Learning - PyTorch, Tensorflow, Scikit-learn, Skopt (Bayesian Optimization)
+      - name: Data Processing - Pandas, Matplotlib, Spotfire
         # level: 90%
-
-      - name: Python 
-        # level: 90%
-
-      - name: PyTorch 
-        # level: 90%
-
-      - name: Tensorflow
-        # level: 90%
-
-      - name: Pandas & Matplotlib
-        # level: 90%
-
-      - name: Verilog 
-        # level: 60%
-        
-      - name: Cadence-NC Verilog & Simvision  
-        # level: 60%
-        
-      - name: Synopsys-Design Compiler   
-        # level: 60%        
-
-      - name: Synopsys-Prime Time   
-        # level: 60%        
-        
-      - name: Xilinx-Vivado 
-        # level: 70%
-
-      - name: Xilinx-High Level Synthesis 
-        # level: 80%
-
-      - name: Xilinx-Petalinux 
-        # level: 70%
+      - name: Infra - bash/csh dotfiles, aws s3 & glue, kubernates 
+      - name: Cadence - NC Verilog & Simvision
+      - name: Synopsys - Design Compiler, IC Compiler2, Fusion Compiler, Prime Time, DSO.ai 
+      - name: Xilinx-Vivado, High Level Synthesis, Petalinux
 
 
 
