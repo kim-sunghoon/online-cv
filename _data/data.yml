@@ -98,7 +98,7 @@ projects:
     title: Projects
 
     assignments:
-      - title: Reducing circuit design backend flow turnaround time by developing ML-based design rule violation predictors  
+      - title: Reducing Circuit Design Backend Flow TAT by Developing ML-based Design Rule Violation Predictor  
         tagline: Samsung Foundry,  Jul. 2023 - May. 2024 (11 months)
 
       - title: Circuit PPA push with dso.ai  
@@ -126,9 +126,9 @@ publications:
     # very confusing but publication --> journal and conference... site.data.data error
     title: Papers 
     papers:
-      - title: "DRV Prediction ... FIXIT!"
+      - title: "ML-based PPA Push using DRV Prediction"
         authors: Jungho Kim, Kyeongsun cho, <strong>Sunghoon Kim</strong>, Mintae Lee and Wook Kim
-        conference: "<I> The Design Automation Conference (DAC) </I>, 2024"
+        conference: "<I> Design Automation Conference (DAC), engineer track </I>, 2024"
 
       - title: "MDARTS Multi-objective Differentiable Neural Architecture Search"
         authors:  <strong>Sunghoon Kim</strong>, Hyunjeong Kwon, Eunji Kwon, Youngchang Choi, Tae-Hyun Oh and Seokhyeong Kang
@@ -187,9 +187,9 @@ skills:
     toolset:
       - name: Basics - Linux, Git, Python, C++ 
       - name: Machine Learning - PyTorch, Tensorflow, Scikit-learn, Skopt (Bayesian Optimization)
-      - name: Data Processing - Pandas, Matplotlib, Spotfire
+      - name: Data Processing & Visualization - Pandas, Matplotlib, Spotfire
         # level: 90%
-      - name: Infra - bash/csh dotfiles, aws s3 & glue, kubernates 
+      - name: Infra - bash/csh dotfiles, AWS s3 & glue, Kubernates 
       - name: Cadence - NC Verilog & Simvision
       - name: Synopsys - Design Compiler, IC Compiler2, Fusion Compiler, Prime Time, DSO.ai 
       - name: Xilinx-Vivado, High Level Synthesis, Petalinux
