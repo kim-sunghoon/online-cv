@@ -25,13 +25,13 @@ sidebar:
         level: Advanced High (OPIC)
 
     interests:
-      - item: Machine Learning / Tabular Dataset and Graph Neural Network
+      - item: VLSI CAD, Circuit PPA Push / Design Automation
         link:
 
-      - item: VLSI CAD / Design Automation 
+      - item: Defect/Yield Ramp-up 
         link:
         
-      - item: XAI (eXplainable Artificial Intelligence)
+      - item: Machine Learning / Tabular Dataset and Graph Neural Network / XAI (eXplainable Artificial Intelligence)
         link:
 
 
@@ -40,13 +40,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sunghoon Kim is a engineer at Samsung Electornics (Foundry).
-      He received a Master of Science degree in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea in August 2020. Advisor was Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
-      His research interests in Samsung Foundry included AI-based Yield Ramp-up and Electronic Design Automation methodology development.
-      His research interests in POSTECH included energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
+      Sunghoon Kim is an engineer at Samsung Electornics (Foundry).
+      He received a Master of Science degree in Electrical Engineering from Pohang University of Science and Technology (POSTECH), Korea, in August 2020. Advisor was Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr)  
+      At Samsung Foundry, his research interests include PPA optimization using AI, AI-based yield ramp-up, productivity enhancement using LLMs, and the development of Electronic Design Automation (EDA) methodologies.
+      At POSTECH, His research focused on energy-efficient deep learning computing at the intersection between machine learning and low power VLSI design. 
       Before joining POSTECH, he received a Bachelor of Science degree with the highest honors in the Material Science Engineering at Ulsan National Institute of Science and Technology (UNIST), Korea in February 2018. 
 
-      -- Last update Jun. 2024 -- 
+      -- Last update Mar. 2025 -- 
 
 education:
     - degree: M.Sc in Electrical Engineering
@@ -54,6 +54,7 @@ education:
       time: Sep. 2018 - Aug. 2020 
       details: | 
           - Advisor: Prof. Seokhyeong Kang 
+          - Graduated with highest honors:  GPA (4.15/4.3), 2020
 
     - degree: B.Sc Graduated with Highest Honors in Advanced Material Science(1st), Electrical Engineering (2nd)
       university: Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea 
@@ -72,7 +73,6 @@ experiences:
       company: CAD & SoC Design Lab in POSTECH, Prof. Seokhyeong Kang
       details: |
           - Thesis: MDARTS: Multi-objective Differentiable Neural Architecture Search
-          - GPA: 4.15/4.3, 2020
 
 
     - role: Undergraduate Student Researcher 
@@ -98,14 +98,17 @@ projects:
     title: Projects
 
     assignments:
-      - title: Reducing Circuit Design Backend Flow TAT by Developing ML-based Design Rule Violation Predictor  
-        tagline: Samsung Foundry,  Jul. 2023 - May. 2024 (11 months)
+      - title: Circuit PPA push with DSO.ai / Cererus 
+        tagline: Samsung Foundry,  Aug. 2023 - ongoing (1 year 7 months)
+      
+      - title: Development and Evaluation of EDA/DT LLMs for Productivity improvement in circuit design
+        tagline: Samsung Foundry,  Jul. 2024 - ongoing (8 months)
 
-      - title: Circuit PPA push with dso.ai  
-        tagline: Samsung Foundry,  Aug. 2023 - Oct. 2023 (3 months)
+      - title: Reducing Circuit Design Backend Flow Turn Around Time by Developing ML-based Design Rule Violation Predictor  
+        tagline: Samsung Foundry,  Jul. 2023 - Apr. 2024 (9 months)
 
       - title: AI-based Yield Prediction and Cause Analysis Methodology Development 
-        tagline: Samsung Foundry & Samsung Advanced Institute of Technology et al., Dec. 2020 - Sep. 2023 (2 years and 7 months)
+        tagline: Samsung Foundry & Samsung Advanced Institute of Technology et al., Dec. 2020 - Dec. 2024 (4 years)
         # details: |
         #   - Development of ML-based automation technology that can be intelligent throughout semiconductors such as process development, yield ramp-up, facility abnormality detection, and Fab automation
         #   - Development of deep learning-based learning algorithms suitable for semiconductors
@@ -114,13 +117,13 @@ projects:
         
 
       - title: Autonomous Accuracy Scaling for Ultra-low-power Intelligent Mobile Systems 
-        tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2018 - Jun. 2020 (1 year and 9 months)
+        tagline: Samsung Science & Technology Foundation, POSTECH, et al., Aug. 2018 - Jun. 2020 (1 year and 10 months)
 
       - title: Deep Learning and Development of Voice Interactive Smart Home Control System based on Internet of Home Things (IoHT)
-        tagline: POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2018 - Jun. 2020 (1 year and 7 months)
+        tagline: POSCO Future IT Convergence Research Institute, POSTECH, et al., Dec. 2018 - Jun. 2020 (1 year and 6 months)
         
       - title: Camera-based Real-time Artificial Intelligence System for Detecting Driving Environment Recognizing Objects on Road Simultaneously  
-        tagline: National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2018 - Feb. 2019 (6 months)
+        tagline: National Ressearch Foundation, KETI,  POSTECH, DGIST et al., Sep. 2018 - Feb. 2019 (5 months)
    
 publications:
     # very confusing but publication --> journal and conference... site.data.data error
@@ -155,17 +158,13 @@ papers:
     title: Patents
     papers: 
        - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
-         authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and <strong>Sunghoon Kim</strong>
-         conference: "<I>South Korea 10-2019-0034583</I>, Mar 26, 2019 (application)"
-
-       - title: "NEURAL NETWORK ACCELERATOR AND OPERATING METHOD THEREOF"
-         authors: Seokhyeong Kang, Yesung Kang, Yoonho Park and <strong>Sunghoon Kim</strong>
-         conference: "<I>United State UP-2900650-US</I>, Jan 24, 2020 (application) [link](http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub8_1&wr_id=25)" 
+         authors: Seokhyeong Kang, Yesung Kang, <strong>Sunghoon Kim</strong> and Yoonho Park
+         conference: "<I>United States Patent [US11960986B2](https://patents.google.com/patent/US11960986B2/en)</I>, Granted on Apr. 16, 2024, [link2](http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub8_1&wr_id=25), Transfer of patent to Samsung Electronics with reward"
          
 awards:
     title: Awards
     awards:
-        - title: "SEC Annaual Awards in S/W Division Silver Prize, 2022 (삼성전자), AI-based Foundry Yield Ramp-up Methodology Development"
+        - title: "Samsung Electronics Co., Ltd Annaual Awards in S/W Division Silver Prize, 2022 (삼성전자), AI-based Foundry Yield Ramp-up Methodology Development"
         - title: "Best paper award at ISLPED, 2020 [link](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EeQ_71QVnw9AukLSRu5xnWQBCNXylxVhszZKNZgwQHKuZg?e=bEEdcz)"
         - title: "Excellent paper award in VLSI CAD division at KCS, 2020"
         - title: "Best paper award at ISE Conference, 2018"
@@ -177,21 +176,27 @@ teachings:
     title: Teachings
     intro: "I am a teaching assistant for the following courses:"
     teachings:
+        - title: "Instructor for the SW CERTIFICATION PRO Exam Preparation Course at Samsung Electronics (Jul. 11-12, 2024), 삼성 소프트웨어 인증 PRO 시험 대비반 강사 출강"
+        - title: "Mentored interns in the Samsung Talent Internship Program, providing technical guidance and career advice (Jul. 2024 - Aug. 2024), 삼성 수재인턴십 멘토 수행"
+        - title: "Served as a Senior Samsung Value Program (SVP) as part of the Leadership Development Course (Feb. 2024 - Mar. 2024), 삼성 신입사원 연수프로그램 (SVP) 선배 수행"
         - title: "EECE490F: Introduction to VLSI Design, Spring 2019 at POSTECH"
         - title: "Manage CSDL Tutorial Page: [https://github.com/CSDL-postech/CSDL_Tutorial](https://github.com/CSDL-postech/CSDL_Tutorial)"
         - title: "My Study Page: [https://github.com/kim-sunghoon/Study-materials](https://github.com/kim-sunghoon/Study-materials)"
-        - title: "I served as a Samsung Value Program (SVP) Senior as part of the Leadership Development Course (Feb. 2024 - Mar. 2024), 삼성 신입사원 연수프로그램 (SVP) 선배 수행"
+        
+        
 
 skills:
     title: Skills 
     toolset:
       - name: Basics - Linux, Git, Python, C++ 
-      - name: Machine Learning - PyTorch, Tensorflow, Scikit-learn, Skopt (Bayesian Optimization)
+      - name: Infra - Docker, AWS, Linux bash/csh dotfiles
+      - name: Machine Learning - PyTorch, Tensorflow, Scikit-learn, Skopt (Bayesian Optimization), shap (eXplainable Artificial Intelligence)
       - name: Data Processing & Visualization - Pandas, Matplotlib, Spotfire
+      - name: Large-Language Model - langchain, langgraph, ollama, openweb-ui
         # level: 90%
-      - name: Infra - bash/csh dotfiles, AWS s3 & glue, Kubernates 
-      - name: Cadence - NC Verilog & Simvision
-      - name: Synopsys - Design Compiler, IC Compiler2, Fusion Compiler, Prime Time, DSO.ai 
+      - name: Cadence - Cerebrus, Innovus, NC Verilog & Simvision, 
+      - name: Synopsys - DSO.ai, Fusion Compiler, Design Compiler, IC Compiler2, Prime Time, SNPS Copilot Systems (Knowledge Assistant/Workflow Assistant/Run Assistant) 
+      - name: Siemens - Fused LLM System 
       - name: Xilinx-Vivado, High Level Synthesis, Petalinux
 
 
