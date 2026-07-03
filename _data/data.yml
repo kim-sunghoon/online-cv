@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sunghoon Kim
     tagline: Engineer at Samsung Electronics 
-    avatar: shkim-200804-w.jpg  #place png file inside /assets/images/ folder and provide the name of the file below
+    avatar: shkim-2501.jpg  #place png file inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sh.kim@postech.ac.kr 
@@ -22,19 +22,11 @@ sidebar:
         level: Native
 
       - idiom: English 
-        level: Advanced High (OPIC)
+        level: AL (OPIc)
 
     interests:
-      - item: VLSI CAD, Circuit PPA Push / Design Automation
+      - item: VLSI CAD, Circuit PPA Push / Design Automation, AI for EDA 
         link:
-
-      - item: Defect/Yield Ramp-up 
-        link:
-        
-      - item: Machine Learning / Tabular Dataset and Graph Neural Network / XAI (eXplainable Artificial Intelligence)
-        link:
-
-
 
 
 career-profile:
