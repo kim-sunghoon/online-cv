@@ -12,7 +12,7 @@ sidebar:
     avatar: shkim-2501.jpg  #place png file inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sh.kim@postech.ac.kr 
+    email: deckard-k@kakao.com
     website: kim-sunghoon.github.io/online-cv/ #do not add http://
     linkedin: sunghoon-kim-8b08aa164
     github: kim-sunghoon
@@ -210,16 +210,21 @@ teachings:
 skills:
     title: Skills 
     toolset:
-      - name: Domain - AI for EDA, VLSI CAD, Circuit PPA Optimization, Standard Cell Delay Prediction, Yield Prediction, Design Rule Violation Prediction, Semiconductor Data Analytics
-      - name: Programming - Python, C++, Linux Shell, Git
-      - name: Machine Learning & Optimization - PyTorch, TensorFlow, Scikit-learn, Graph Neural Networks / HeteroGNN, Bayesian Optimization, Optuna, SHAP / Captum / Explainable AI
+      - name: Domain - Circuit PPA Optimization, AI for EDA, Physical Design Automation
+      - name: Methodologies - Standard Cell Delay Prediction, Design Rule Violation Prediction, 
+      - name: Methodologies - Semiconductor Data Analytics, Yield Prediction, Cause Analysis, Design-space Exploration
+      - name: Programming - Python, C++, TypeScript, Linux Shell, Git
+      - name: Machine Learning & Optimization - PyTorch, TensorFlow, Scikit-learn
+      - name: Machine Learning & Optimization - Graph Neural Networks, Bayesian Optimization, Optuna
+      - name: Explainable AI - SHAP, Captum, Model Interpretation for EDA and Circuit Analysis
       - name: Data Processing & Visualization - Pandas, Matplotlib, Spotfire
-      - name: LLM Engineering - LangChain, LangGraph, Ollama, Open WebUI, RAG / Workflow Automation
+      - name: LLM Engineering - LangChain, LangGraph, Open WebUI, RAG / Workflow Automation
       - name: Infrastructure - Docker, AWS, Linux bash/csh environments
         # level: 90%
       - name: Cadence - Cerebrus, Innovus, NC-Verilog, SimVision
-      - name: Synopsys - DSO.ai, Fusion Compiler, Design Compiler, IC Compiler II, PrimeTime, SNPS Copilot Systems (Knowledge Assistant / Workflow Assistant / Run Assistant)
-      - name: Siemens - Fused LLM System 
+      - name: Synopsys - DSO.ai, Fusion Compiler, Design Compiler,  PrimeTime
+      - name: Synopsys - SNPS Copilot Systems (Knowledge / Workflow / Run Assistant)
+      - name: Siemens - Fused LLM System
       - name: Xilinx - Vivado, High Level Synthesis, PetaLinux
 
 
